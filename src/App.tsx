@@ -1,9 +1,9 @@
+import Main from './pages/main';
+
 const App = () => {
 	return (
 		<div className="App">
-			<header className="App-header">
-				<h1>testes</h1>
-			</header>
+			<Main />
 		</div>
 	);
 };
