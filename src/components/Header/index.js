@@ -1,7 +1,6 @@
-import { useLocation } from 'react-router-dom';
+import { useLocation, Link } from 'react-router-dom';
 import './style.css';
 import { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
 import { FaArrowLeft } from 'react-icons/fa';
 import Logo from '../../assets/logo/autoentusiastadejeep.png';
 
@@ -13,7 +12,7 @@ const Header = () => {
 		if (location.pathname.includes('product')) {
 			setIsProduct(true);
 		}
-	}, []);
+	}, [location.pathname]);
 
 	return (
 		<div
