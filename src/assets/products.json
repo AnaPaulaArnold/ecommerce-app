@@ -1,0 +1,74 @@
+[
+	{
+		"id": "1",
+		"name": "Kit trocador",
+		"price": 400,
+		"description": "Adicione aqui uma descrição.",
+		"shopLink": "https://www.google.com",
+		"image": "https://source.unsplash.com/random/500x500"
+	},
+	{
+		"id": "2",
+		"name": "Banana",
+		"price": 40,
+		"description": "Adicione aqui uma descrição.",
+		"shopLink": "https://www.google.com",
+		"image": "https://source.unsplash.com/random/500x500"
+	},
+	{
+		"id": "3",
+		"name": "Maça",
+		"price": 400,
+		"description": "Adicione aqui uma descrição.",
+		"shopLink": "https://www.google.com",
+		"image": "https://source.unsplash.com/random/500x500"
+	},
+	{
+		"id": "4",
+		"name": "Kit com nome muito grande",
+		"price": 400,
+		"description": "Adicione aqui uma descrição.",
+		"shopLink": "https://www.google.com",
+		"image": "https://source.unsplash.com/random/500x500"
+	},
+	{
+		"id": "5",
+		"name": "Abacaxi com lombo",
+		"price": 400,
+		"description": "Adicione aqui uma descrição.",
+		"shopLink": "https://www.google.com",
+		"image": "https://source.unsplash.com/random/500x500"
+	},
+	{
+		"id": "6",
+		"name": "Açai com Nutella",
+		"price": 400,
+		"description": "Adicione aqui uma descrição.",
+		"shopLink": "https://www.google.com",
+		"image": "https://source.unsplash.com/random/500x500"
+	},
+	{
+		"id": "7",
+		"name": "Shampoo e Condicionador kit",
+		"price": 400,
+		"description": "Adicione aqui uma descrição.",
+		"shopLink": "https://www.google.com",
+		"image": "https://source.unsplash.com/random/500x500"
+	},
+	{
+		"id": "8",
+		"name": "Kit trocador calor renegade",
+		"price": 400,
+		"description": "Adicione aqui uma descrição.",
+		"shopLink": "https://www.google.com",
+		"image": "https://source.unsplash.com/random/500x500"
+	},
+	{
+		"id": "9",
+		"name": "Boneca da Hello Kitty",
+		"price": 400,
+		"description": "Adicione aqui uma descrição.",
+		"shopLink": "https://www.google.com",
+		"image": "https://source.unsplash.com/random/500x500"
+	}
+]
